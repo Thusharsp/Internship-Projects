@@ -1,0 +1,107 @@
+.head {
+    background-color: #232F3E;
+    color: white;
+    text-align: center;
+    padding-left: 1%;
+ 
+}
+.adrs {
+    font-size: 13px;
+    font-weight: bold;
+    line-height:1;
+}
+
+.img {
+  line-height: 3;
+}
+
+.search input[type=text]{
+  width:555px;
+  height:44px;
+  border-radius:5px;
+  border: none;
+  margin-right:6px;
+  margin-left: 0%;
+}
+
+.search{
+  float:right;
+  margin:12px;
+}
+
+.search button{
+  background-color: #8e959d;
+  color: #f2f2f2;
+  float: right;
+  padding: 10px 10px;
+  margin-right: 76px;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+}
+
+.p1 {
+  font-size: 12px;
+}
+ 
+.p2 {
+  line-height: 1;
+  font-weight: bold;
+}
+
+.p3{
+  line-height: 1;
+  font-weight: bold;
+}
+
+.p4{
+  font-size: 12px;
+}
+
+.img2 {
+  margin-right:-3px;
+}
+
+.cart {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+
+*{
+  margin:auto;
+}
+
+.item{
+  background-color: rgb(164, 245, 218);
+}
+
+.item2{
+  background-color: rgb(164, 245, 218);
+
+}
+
+.footer{
+  background-color: #232F3E;
+}
+
+.footer2{
+  color:aliceblue;
+  text-align: center;
+}
+.im{
+  opacity: 0.5;
+}
+.im:hover{
+  transition: 1s;
+  transform: scale(1.2);
+  opacity:1;
+}
+
+.im1:hover{
+  transition: 1s;
+  transform: scale(1.2);
+}
+
+
